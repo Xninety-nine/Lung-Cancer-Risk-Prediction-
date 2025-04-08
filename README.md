@@ -1,5 +1,9 @@
 # Lung-Cancer-Risk-Prediction-
 
+![image](https://github.com/user-attachments/assets/593e8307-7bdb-4662-b40b-ed6725ca7309)
+
+
+
 ## Overview
 
 This project focuses on developing a predictive model to assess the risk of lung cancer in individuals based on various health and lifestyle factors. Utilizing machine learning techniques, the model aims to provide early detection insights, thereby facilitating timely medical interventions.
