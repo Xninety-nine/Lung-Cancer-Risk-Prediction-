@@ -184,6 +184,11 @@ The predictive power of the best model demonstrates the following metrics: accur
 ![image](https://github.com/user-attachments/assets/47a172b1-5e28-4259-8d84-7aa35194a7db)
 
 
+## Clustering based on Risk Levels
+
+![image](https://github.com/user-attachments/assets/57c0a92e-5886-420e-9174-52308ce3c7de)
+
+
 # Key Insights:
 
 - Across all machine learning models, the most influential features in predicting a high lung cancer risk level were obesity, dust allergy, and alcohol use.
