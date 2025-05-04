@@ -184,7 +184,17 @@ The predictive power of the best model demonstrates the following metrics: accur
 ![image](https://github.com/user-attachments/assets/47a172b1-5e28-4259-8d84-7aa35194a7db)
 
 
-# Summary:
+# Key Insights:
+
+- Across all machine learning models, the most influential features in predicting a high lung cancer risk level were obesity, dust allergy, and alcohol use.
+
+- Several contributing factors—such as genetic risk, air pollution, age, and gender—are non-modifiable and outside an individual’s control.
+
+- However, the most impactful and predictive features can be mitigated through lifestyle changes.
+
+- Reducing obesity, limiting alcohol consumption, and avoiding smoking are actionable steps individuals can take to lower their risk of developing lung cancer.
+
+- Clustering techniques proved useful for grouping individuals based on similar feature patterns, offering an additional method to assess lung cancer risk levels.
 
 
 
